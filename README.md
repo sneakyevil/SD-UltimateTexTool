@@ -1,6 +1,6 @@
-[![Current Release](https://img.shields.io/github/v/release/sneakyevil/SleepingDogs-UltimateTexTool?label=Current%20Release&color=red)](https://github.com/sneakyevil/SleepingDogs-UltimateTexTool/releases/latest/download/Release.zip)
-![Downloads](https://img.shields.io/github/downloads/sneakyevil/SleepingDogs-UltimateTexTool/total?label=Total%20Downloads&color=red)
-![Latest Downloads](https://img.shields.io/github/downloads/sneakyevil/SleepingDogs-UltimateTexTool/latest/total?color=red&label=Latest%20Downloads)
+[![Current Release](https://img.shields.io/github/v/release/sneakyevil/SD-UltimateTexTool?label=Current%20Release&color=red)](https://github.com/sneakyevil/SD-UltimateTexTool/releases/latest/download/Release.zip)
+![Downloads](https://img.shields.io/github/downloads/sneakyevil/SD-UltimateTexTool/total?label=Total%20Downloads&color=red)
+![Latest Downloads](https://img.shields.io/github/downloads/sneakyevil/SD-UltimateTexTool/latest/total?color=red&label=Latest%20Downloads)
 
 # Instructions for usage
 - Note: This is just tool for import pre-existing exported (Perm.bin) files or importing (Perm.bin) files not for extracting them directly from .big files.
