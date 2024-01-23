@@ -2,7 +2,11 @@
 ![Downloads](https://img.shields.io/github/downloads/sneakyevil/SD-UltimateTexTool/total?label=Total%20Downloads&color=red)
 ![Latest Downloads](https://img.shields.io/github/downloads/sneakyevil/SD-UltimateTexTool/latest/total?color=red&label=Latest%20Downloads)
 
-# Instructions for usage
+## Preview
+
+![image](https://github.com/sneakyevil/SD-UltimateTexTool/assets/29150970/0f063597-526a-4f9a-92de-82d227312cd0)
+
+## Instructions for usage
 - Note: This is just tool for import pre-existing exported (Perm.bin) files or importing (Perm.bin) files not for extracting them directly from .big files.
 1. Under Project you select Import (Perm.bin) and select the one which has also matching (Temp.bin) file.
 2. After everything was correctly imported you should see all textures under Resources and their sizes.
