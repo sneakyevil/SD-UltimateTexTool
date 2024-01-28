@@ -3,8 +3,7 @@
 ![Latest Downloads](https://img.shields.io/github/downloads/sneakyevil/SD-UltimateTexTool/latest/total?color=red&label=Latest%20Downloads)
 
 ## Preview
-
-![image](https://github.com/sneakyevil/SD-UltimateTexTool/assets/29150970/0f063597-526a-4f9a-92de-82d227312cd0)
+![image](https://github.com/sneakyevil/SD-UltimateTexTool/assets/29150970/1bdfd347-a556-419f-a46d-6dc2c2dbfc34)
 
 ## Instructions for usage
 - Note: This is just tool for import pre-existing exported (Perm.bin) files or importing (Perm.bin) files not for extracting them directly from .big files.
