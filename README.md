@@ -10,7 +10,7 @@
 > 
 > Modifying textures that contain other data then textures will not exist in new export files, so use it with caution!
 > 
-> This could be solved in future by me by or someone else by writing tool that modifies original perm.bin file texture information based on new perm.bin
+> This could be solved in future by me or someone else by writing tool that modifies original perm.bin file texture information based on new perm.bin
 
 ## Instructions for usage
 - Note: This is just tool for import pre-existing exported (Perm.bin) files or importing (Perm.bin) files not for extracting them directly from .big files.
