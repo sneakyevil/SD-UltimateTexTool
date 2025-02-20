@@ -5,6 +5,13 @@
 ## Preview
 ![image](https://github.com/sneakyevil/SD-UltimateTexTool/assets/29150970/1bdfd347-a556-419f-a46d-6dc2c2dbfc34)
 
+> [!CAUTION]
+> This tool uses TextureScriber that was shipped with **Triad Wars**, as that tool is closed-source this GUI Tool generates XML that pass it to that tool to generate new perm.bin/temp.bin based on loaded file.
+> 
+> Modifying textures that contain other data then textures will not exist in new export files, so use that it caution!
+> 
+> This could be solved in future by me by or someone else by writing tool that modifies original perm.bin file texture information based on new perm.bin
+
 ## Instructions for usage
 - Note: This is just tool for import pre-existing exported (Perm.bin) files or importing (Perm.bin) files not for extracting them directly from .big files.
 1. Under Project you select Import (Perm.bin) and select the one which has also matching (Temp.bin) file.
