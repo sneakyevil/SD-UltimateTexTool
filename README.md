@@ -8,7 +8,7 @@
 > [!CAUTION]
 > This tool uses TextureScriber that was shipped with **Triad Wars**, as that tool is closed-source this GUI Tool generates XML that pass it to that tool to generate new perm.bin/temp.bin based on loaded file.
 > 
-> Modifying textures that contain other data then textures will not exist in new export files, so use that it caution!
+> Modifying textures that contain other data then textures will not exist in new export files, so use it with caution!
 > 
 > This could be solved in future by me by or someone else by writing tool that modifies original perm.bin file texture information based on new perm.bin
 
